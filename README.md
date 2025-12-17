@@ -1,4 +1,4 @@
-# Aplikasi To-Do List (Android – Java)
+# Aplikasi To-Do List (Android Studio – Java)
 
 **Nama Aplikasi:** Aplikasi To-Do List  
 
